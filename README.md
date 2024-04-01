@@ -14,13 +14,11 @@ In this repo, we'll build a Langchain Powered RAG using Pinecone, OpenAI, and LC
 * pip install -r requirements.txt
 * Create your RAG
 
-### Task 1: 
+### Tasks:
 * Install required libraries
 * Create Pinecone Acct for API key
 * Set environment variables
 * Initiliaze Index on Pinecone
-
-### Task 2: 
 * Initiliaze a simple chain using LCEL
 * Implement Naive RAG using LCEL
 * Create a simple RAG app using Pinecone, Open AI, and LCEL
