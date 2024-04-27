@@ -1,6 +1,6 @@
 # 🤖 LangChain-v0.1.0 and LCEL: LangChain-Powered-RAG
 
-In this repo, we'll build a Langchain Powered RAG using Pinecone, OpenAI, and LCEL. This project was done during week 3 of AI Makerspace's AI Engineering Bootcamp Cohort 1 (AIE1).
+In this repo, we'll build a Langchain Powered RAG using Pinecone, OpenAI, and LCEL. 
 
 ### ⚙️The colab link to the code is found and (will also be included in this repo) [here.](https://colab.research.google.com/drive/1vy_E5Jy9r0LKAqIpWjIQiptMKE1-8x8h?usp=sharing)
 
